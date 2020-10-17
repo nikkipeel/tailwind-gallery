@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/tailwind-gallery/static/css/main.132e8dd7.chunk.css",
-    "main.js": "/tailwind-gallery/static/js/main.769afb2d.chunk.js",
-    "main.js.map": "/tailwind-gallery/static/js/main.769afb2d.chunk.js.map",
+    "main.css": "/tailwind-gallery/static/css/main.3075c778.chunk.css",
+    "main.js": "/tailwind-gallery/static/js/main.362996ce.chunk.js",
+    "main.js.map": "/tailwind-gallery/static/js/main.362996ce.chunk.js.map",
     "runtime-main.js": "/tailwind-gallery/static/js/runtime-main.569aac49.js",
     "runtime-main.js.map": "/tailwind-gallery/static/js/runtime-main.569aac49.js.map",
     "static/js/2.e7ed26ff.chunk.js": "/tailwind-gallery/static/js/2.e7ed26ff.chunk.js",
     "static/js/2.e7ed26ff.chunk.js.map": "/tailwind-gallery/static/js/2.e7ed26ff.chunk.js.map",
     "index.html": "/tailwind-gallery/index.html",
-    "precache-manifest.371dd1982b539a3fdb66aa6e873cd862.js": "/tailwind-gallery/precache-manifest.371dd1982b539a3fdb66aa6e873cd862.js",
+    "precache-manifest.9414c1ad04d6cc25138d15287f018c90.js": "/tailwind-gallery/precache-manifest.9414c1ad04d6cc25138d15287f018c90.js",
     "service-worker.js": "/tailwind-gallery/service-worker.js",
-    "static/css/main.132e8dd7.chunk.css.map": "/tailwind-gallery/static/css/main.132e8dd7.chunk.css.map",
+    "static/css/main.3075c778.chunk.css.map": "/tailwind-gallery/static/css/main.3075c778.chunk.css.map",
     "static/js/2.e7ed26ff.chunk.js.LICENSE.txt": "/tailwind-gallery/static/js/2.e7ed26ff.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.569aac49.js",
     "static/js/2.e7ed26ff.chunk.js",
-    "static/css/main.132e8dd7.chunk.css",
-    "static/js/main.769afb2d.chunk.js"
+    "static/css/main.3075c778.chunk.css",
+    "static/js/main.362996ce.chunk.js"
   ]
 }
