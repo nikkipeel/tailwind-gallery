@@ -9,7 +9,7 @@ const ImageSearch = ({ searchText }) => {
   };
 
   return (
-    <div className="max-w-sm rounded overflow-hidden my-10 mx-auto">
+    <div className="max-w-sm rounded overflow-hidden mx-2 my-10 md:mx-auto">
       <form onSubmit={onSubmit} className="w-full max-w-sm">
         <div className="flex items-center border-b border-teal-200 py-2">
           <input
@@ -20,7 +20,7 @@ const ImageSearch = ({ searchText }) => {
             aria-label="Search Images"
           />
           <button
-            className="flex-shrink-0 bg-teal-200 hover:bg-teal-800 border-teal-200 hover:border-white focus:outline-none text-sm border-4 text-gray-800 hover:text-white py-1 px-2 rounded"
+            className="flex-shrink-0 bg-teal-200 hover:bg-teal-800 border-teal-200 hover:border-white focus:outline-none text-sm border-4 text-gray-800 hover:text-white py-1 px-2 mx-2 rounded"
             type="submit"
           >
             Search
